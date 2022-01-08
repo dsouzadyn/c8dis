@@ -1,5 +1,7 @@
 # c8dis
 
+![Screenshot](screenshot.png)
+
 Usage:
 ```bash
 $ cargo build
